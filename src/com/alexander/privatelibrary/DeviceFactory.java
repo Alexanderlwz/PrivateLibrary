@@ -7,6 +7,7 @@ import com.alexander.deviceadapter.LenovoA7600;
 import com.alexander.deviceadapter.LenovoS6000;
 import com.alexander.deviceadapter.MalataQ18;
 
+@SuppressWarnings("unused")
 public class DeviceFactory {
 	
 	private static final String TAG = "DeviceFactory";
